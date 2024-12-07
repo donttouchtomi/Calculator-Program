@@ -5,7 +5,7 @@ function append(input) {
   display.value += input;
 }
 
-function clear() {
+function clearDisplay() {
   display.value = "";
 }
 
