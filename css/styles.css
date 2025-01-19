@@ -20,7 +20,7 @@ h1 {
 }
 
 #display {
-    /* width: 100%; */
+    width: 100%;
     padding: 15px;
     font-size: 5rem;
     text-align: left;
