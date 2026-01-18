@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub URL](https://github.com/donttouchtomi/Calculator-Program.git)
-- Live Site URL: [Netlify URL](https://stalwart-granita-5bbaad.netlify.app/)
+- Live Site URL: [Netlify URL](https://astounding-piroshki-87ead4.netlify.app/)
 
 ## My process
 
